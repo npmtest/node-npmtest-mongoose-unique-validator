@@ -1,4 +1,7 @@
-# test coverage for  [mongoose-unique-validator (v1.0.5)](https://github.com/blakehaswell/mongoose-unique-validator#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoose-unique-validator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoose-unique-validator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoose-unique-validator.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoose-unique-validator)
+# npmtest-mongoose-unique-validator
+
+#### basic test coverage for  [mongoose-unique-validator (v1.0.5)](https://github.com/blakehaswell/mongoose-unique-validator#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoose-unique-validator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoose-unique-validator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoose-unique-validator.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoose-unique-validator)
+
 #### mongoose-unique-validator is a plugin which adds pre-save validation for unique fields within a Mongoose schema.
 
 [![NPM](https://nodei.co/npm/mongoose-unique-validator.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongoose-unique-validator)
